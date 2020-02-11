@@ -2,6 +2,5 @@
 "export HOME=/",
 "netmanager",
 "service telnetd",
-"service httpd",
 "tish",
 "stl_demo_sort1",
